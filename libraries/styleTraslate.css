@@ -1,0 +1,89 @@
+.titleContainer{
+    width: 100%;
+    background-color: #F8F9FA;
+    padding: 10px;
+    
+}
+
+.title{
+    font-weight: 100;
+}
+
+
+.traslate{
+    display: flex;
+    width: 80%;
+
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.containerTextLatex{
+    width: calc(45% - 10PX);
+    position: relative;
+box-sizing: border-box;
+}
+
+.containerTextNormal{
+    width: calc(45% - 10PX);
+    box-sizing: border-box;
+    position: relative;
+
+}   
+
+.traslate__latex{
+    width: 100%;
+    background-color: #DADCE0;
+}
+
+.traslate__normalText{
+    width: 100%;
+    background-color: #F8F9FA;
+    border: transparent;
+}
+
+.box{
+   
+    border-radius: .2rem;
+    min-height: 200px;
+
+    padding:  10px ;
+    font-size: 18px;
+}
+.cpy{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.cpy:active{
+    transform: scale(1.1)
+}
+
+.cpy::after{
+   
+    font-size: 24px;
+    content: '\01F4CB';
+}
+.contentButton{
+    display: flex;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    padding: 10px;
+}
+.button{
+    width: 120px;
+    padding: 1rem;
+    border: 1px solid;
+    border-radius: 0.5rem;
+}

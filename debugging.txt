@@ -1,0 +1,19 @@
+Elianny: 
+
+Sobre los detalles que pude notar en la digitalización.
+
+*Sensibilidad a mayúsculas y  minúsculas. [LISTO]
+
+* Las flechas se desplazan un poco  hacia abajo. [LISTO]
+
+* En el ejercicio 2 de la página 3-3. Coloque × reemplazado los cuadritos, para que sea más sencillo  en el momento que los estudiantes corrijan el ejercicio. [LISTO - Excelente]
+
+Eso es todo si llego a  notar otra cosa te digo.
+
+
+
+Raul
+
+- las flechas indiferentemente el tamano del monitor ni el navegador, estan un poco movidas a hacia abajo
+- las teclas no estan alineadas 
+- el scroll que tienen cuando su tamano no cubre la expresion no se puede resolver con solo aumentar el alto ya que se sobreponen con las pantallas
